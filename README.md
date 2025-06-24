@@ -25,7 +25,18 @@ This repository is intended to demonstrate my machine learning and computer visi
 | Stage | Model | Accuracy | mAP50-95 |
 |--------|--------|----------|----------|
 | 1 | YOLOv8 | ~99% (based on precision-recall, confidence matrix) | 0.941 |
-| 2 | CNN | 98.83% | N/A |
+| 2 | CNN | 98.83% | N/A | 
+
+Here’s a cleaner, more polished version of your text:
+
+---
+
+The model was tested on the following types of images:
+1. Real-world data
+2. Images containing noise
+3. Rainy conditions
+4. Sunny conditions
+5. Low-light or nighttime images
 
 ---
 
