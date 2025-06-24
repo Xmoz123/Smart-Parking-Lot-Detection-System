@@ -1,0 +1,14 @@
+Brief description of what these scripts do: 
+
+annotations.py: Prepares images and YOLO label files for upload or further processing by copying them to a temporary directory.
+
+check_dataset.py: Checks dataset integrity and identifies issues like missing labels or empty images.
+
+evaluate_stage1.py / test_stage_model1.py: Evaluates the YOLOv8 slot detector on test images and computes performance metrics (mAP, precision, recall).
+
+visualize_labels.py: Overlays YOLO bounding boxes and class labels on images for verification of annotation correctness.
+
+inference.py: Runs the full two-stage pipeline (YOLOv8 detection + CNN classification) and outputs visualized results and a CSV summary.
+
+sort_cnr_patches.py: Sorts CNRPark-EXT patches into occupied and empty folders for Stage 2 classifier training.
+
