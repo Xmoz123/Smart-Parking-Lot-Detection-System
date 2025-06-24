@@ -51,6 +51,14 @@ The model was tested on the following types of images:
 
 ---
 
+## License
+
+This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.  
+To view a copy of this license, visit [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+**Please do not reuse, modify, or redistribute this code without my permission.**
+
+---
 ## Contact
 
 Feel free to connect with me on LinkedIn: (https://www.linkedin.com/in/pratheek-shanbhogue-54642231b/) for collaboration or discussion!
